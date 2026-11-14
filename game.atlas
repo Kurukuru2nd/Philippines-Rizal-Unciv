@@ -3,87 +3,115 @@ size: 1024, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/IRRI
+
+BuildingIcons/Bahay na Bato
   rotate: false
-  xy: 4, 112
+  xy: 524, 8
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-LeaderIcons/Andres Bonifacio
+
+BuildingIcons/Galleon Trade
   rotate: false
-  xy: 4, 220
+  xy: 632, 8
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+BuildingIcons/IRRI
+  rotate: false
+  xy: 740, 8
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+BuildingIcons/Palengke
+  rotate: false
+  xy: 848, 8
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+LeaderIcons/Jose Rizal
+  rotate: false
+  xy: 8, 8
   size: 250, 250
   orig: 250, 250
   offset: 0, 0
   index: -1
+
 NationIcons/Philippines
   rotate: false
-  xy: 4, 4
+  xy: 8, 266
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+
 TileSets/FantasyHex/Katipunero
   rotate: false
-  xy: 112, 180
+  xy: 764, 266
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
-UnitIcons/Katipunero
-  rotate: false
-  xy: 262, 370
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Galleon Trade
-  rotate: false
-  xy: 520, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Palengke
-  rotate: false
-  xy: 628, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Bahay na Bato
-  rotate: false
-  xy: 736, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Mandirigma
-  rotate: false
-  xy: 844, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Karakoa
-  rotate: false
-  xy: 520, 112
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Kawal
-  rotate: false
-  xy: 628, 112
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
+
 UnitIcons/Hukbalahap
   rotate: false
-  xy: 736, 112
+  xy: 116, 266
   size: 100, 100
   orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+UnitIcons/Kampilan
+  rotate: false
+  xy: 224, 266
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+UnitIcons/Karakoa
+  rotate: false
+  xy: 332, 266
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+UnitIcons/Katipunero
+  rotate: false
+  xy: 440, 266
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+UnitIcons/Kawal
+  rotate: false
+  xy: 548, 266
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+UnitIcons/Mandirigma
+  rotate: false
+  xy: 656, 266
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+UnitPortraits/Andres Bonifacio
+  rotate: false
+  xy: 266, 8
+  size: 250, 250
+  orig: 250, 250
   offset: 0, 0
   index: -1
