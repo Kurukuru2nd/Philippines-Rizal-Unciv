@@ -3,7 +3,6 @@ size: 1024, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-
 BuildingIcons/Bahay na Bato
   rotate: false
   xy: 524, 8
@@ -11,7 +10,6 @@ BuildingIcons/Bahay na Bato
   orig: 100, 100
   offset: 0, 0
   index: -1
-
 BuildingIcons/Galleon Trade
   rotate: false
   xy: 632, 8
@@ -19,7 +17,6 @@ BuildingIcons/Galleon Trade
   orig: 100, 100
   offset: 0, 0
   index: -1
-
 BuildingIcons/IRRI
   rotate: false
   xy: 740, 8
@@ -27,7 +24,6 @@ BuildingIcons/IRRI
   orig: 100, 100
   offset: 0, 0
   index: -1
-
 BuildingIcons/Palengke
   rotate: false
   xy: 848, 8
@@ -35,7 +31,6 @@ BuildingIcons/Palengke
   orig: 100, 100
   offset: 0, 0
   index: -1
-
 LeaderIcons/Jose Rizal
   rotate: false
   xy: 8, 8
@@ -43,7 +38,6 @@ LeaderIcons/Jose Rizal
   orig: 250, 250
   offset: 0, 0
   index: -1
-
 NationIcons/Philippines
   rotate: false
   xy: 8, 266
@@ -51,7 +45,6 @@ NationIcons/Philippines
   orig: 100, 100
   offset: 0, 0
   index: -1
-
 TileSets/FantasyHex/Katipunero
   rotate: false
   xy: 764, 266
@@ -59,7 +52,6 @@ TileSets/FantasyHex/Katipunero
   orig: 32, 32
   offset: 0, 0
   index: -1
-
 UnitIcons/Hukbalahap
   rotate: false
   xy: 116, 266
@@ -67,7 +59,6 @@ UnitIcons/Hukbalahap
   orig: 100, 100
   offset: 0, 0
   index: -1
-
 UnitIcons/Kampilan
   rotate: false
   xy: 224, 266
@@ -75,7 +66,6 @@ UnitIcons/Kampilan
   orig: 100, 100
   offset: 0, 0
   index: -1
-
 UnitIcons/Karakoa
   rotate: false
   xy: 332, 266
@@ -83,7 +73,6 @@ UnitIcons/Karakoa
   orig: 100, 100
   offset: 0, 0
   index: -1
-
 UnitIcons/Katipunero
   rotate: false
   xy: 440, 266
@@ -91,7 +80,6 @@ UnitIcons/Katipunero
   orig: 100, 100
   offset: 0, 0
   index: -1
-
 UnitIcons/Kawal
   rotate: false
   xy: 548, 266
@@ -99,7 +87,6 @@ UnitIcons/Kawal
   orig: 100, 100
   offset: 0, 0
   index: -1
-
 UnitIcons/Mandirigma
   rotate: false
   xy: 656, 266
@@ -107,7 +94,6 @@ UnitIcons/Mandirigma
   orig: 100, 100
   offset: 0, 0
   index: -1
-
 UnitPortraits/Andres Bonifacio
   rotate: false
   xy: 266, 8
