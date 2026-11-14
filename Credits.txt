@@ -1,14 +1,21 @@
 Mod Created by Shann - 1.4.0
-Machete Art, Flask and Rice Paddy image taken from the Noun Project
-Recolored and redesigned by Shann
-Philippine Sun - from stock images
-"Bring Justice to Bonifacio"-myself
+Current repository maintainer: Kurukuru2nd
 
-Carinosa - Folk Song
-https://www.youtube.com/watch?v=1pjFvomY958&ab_channel=DayByDayJesusMinistries
+Original mod artwork and design:
+- Machete art, flask, and rice paddy image taken from the Noun Project.
+- Recolored and redesigned by Shann.
+- Philippine Sun emblem assembled from stock images.
+- "Bring Justice to Bonifacio" - original text by the mod creator.
 
-Bagong Pagsilang - Mabuhay Brass Band
-https://www.youtube.com/watch?v=kySxJxXygDE&ab_channel=prehist0ry
+Additional Philippines civilization artwork:
+- José Rizal leader portrait - artwork supplied to the project; original artist/source attribution has not yet been provided.
+- Andrés Bonifacio portrait - source: https://nowtoronto.com/events/meeting-or-networking-event-andres-bonifacio-2020-festival-online-3
+- Kampilan, Karakoa, Mandirigma, Katipunero, Kawal, Hukbalahap, and building artwork - artwork supplied to the project; original artist/source attribution has not yet been provided.
 
-Bonifacio Portrait:
-https://nowtoronto.com/events/meeting-or-networking-event-andres-bonifacio-2020-festival-online-3
+Please add the original artists' names and source/license links for supplied artwork when that information is available. This note is not a claim of authorship or permission to redistribute.
+
+Music:
+- "Cariñosa" - Filipino folk song
+  https://www.youtube.com/watch?v=1pjFvomY958&ab_channel=DayByDayJesusMinistries
+- "Bagong Pagsilang" - Mabuhay Brass Band
+  https://www.youtube.com/watch?v=kySxJxXygDE&ab_channel=prehist0ry
